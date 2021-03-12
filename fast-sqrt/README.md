@@ -19,8 +19,10 @@ What we got from above step was an approximation(close enough). So we can get be
 
 5. Approximating.
 
-Let,
-``` y=f(x)=1/sqrt(x) => y*y=1/x => (1/y*y)-x=0. 
+Let
+```
+ y=f(x)=1/sqrt(x) => y*y=1/x => (1/y*y)-x=0. 
+ 
 ```
 here x is the given input, consider that to be constant. We have a function in y :
 ```
