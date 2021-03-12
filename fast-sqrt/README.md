@@ -1,4 +1,4 @@
-[link to this algorithm's history and what it does.] (https://en.wikipedia.org/wiki/Fast_inverse_square_rootWiki)
+[link to this algorithm's history and what it does.](https://en.wikipedia.org/wiki/Fast_inverse_square_rootWiki)
 
 ## Short Explaination
 
