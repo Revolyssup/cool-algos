@@ -1,0 +1,1 @@
+## This repository will contain some interesting, elegant and cool algorithms I find.
